@@ -1,4 +1,4 @@
-# htmx <a href="https://github.com/gouniverse/htmx" style="float:right:"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" loading="lazy"></a>
+# htmx <a href="https://gitpod.io/#https://github.com/gouniverse/htmx" style="float:right:"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" loading="lazy"></a>
 
 HTMX for GoLang
 
